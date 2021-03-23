@@ -1,8 +1,8 @@
-# Salad
+# Curried Lentil Salad
 
-![Salad!](http://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/17/3/FNM080109Insert030_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1382538880982.jpeg)
+![Salad!](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F996324.jpg&w=596&h=596&c=sc&poi=face&q=85)
 
-This was made so people could fork a salad, because that has never been able to have been done before now.
+This was made so people could fork a curried lentil salad, because that has never been able to have been done before now.
 
 
 #### Credits
